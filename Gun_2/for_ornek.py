@@ -13,11 +13,18 @@ for i in range(2):
         'vize':vize_notu,
         'final':final_notu
     }})
+
+
+
     genel=0
     genel=genel+ortalama
 
-print('Genel Ortalama{}:'.format(genel/3))
+print('Genel Ortalama:{}:'.format(genel/3))
 
+ornek = [10,2,5,1,5,7,9]
 
+for sira, veri in enumerate(ornek):
+    print(ornek)
 
-
+for say in range(1,10,2): #Birden başla ona kadar ikişer ikişer arttır.
+    print(say)
