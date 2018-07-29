@@ -2,69 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85eba3ec-0c57-47f9-8624-17ff589c2db9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Gun_2/Tekrar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_2/fonksiyonlar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_2/ornek_kayit_programi_v_0_0_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_2/ornek_kayit_programi_v_0_0_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_2/ornek_manav_uygulamasi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_2/while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_3/dosya.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_3/dosya_islemleri.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_3/ornek_kayit_programi_v_0_0_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_3/ornek_kayit_programi_v_0_0_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_4/Genel_Tekrar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_4/dosya.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_4/dosya.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_4/dosya2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_4/kumeler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_5/Matematik _Kutuphanesi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_5/ornek.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_5/ornek_alan_hesaplama.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_5/ornek_sayiyi_yaziya_cevir.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_5/ornek_sayiyi_yaziya_cevir_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_5/ornek_sayiyi_yaziya_cevir_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_5/ornek_uzaklik.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_5/ornek_zar_atma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_5/tekrar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_5/zar_atma_fonksiyonel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_6/siniflar_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gun_7/Class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Gün/Tekrar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_1/Tekrar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Gün/demetler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_1/demetler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Gün/donusumler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_1/donusumler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Gün/if_else_not_hesabi_ornek.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_1/if_else_not_hesabi_ornek.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Gün/integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_1/integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Gün/listeler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_1/listeler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Gün/sozluk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_1/sozluk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Gün/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_1/string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Gün/Tekrar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Gün/fonksiyonlar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Gün/for_ornek.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_2/for_ornek.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Gün/ornek_kayit_programi_v_0_0_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Gün/ornek_kayit_programi_v_0_0_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Gün/ornek_manav_uygulamasi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Gün/while.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.Gün/dosya.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.Gün/dosya2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.Gün/dosya_islemleri.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.Gün/dosya_islemleri_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_3/dosya_islemleri_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.Gün/ogrencilerim" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_3/ogrencilerim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.Gün/ornek_kayit_programi_v_0_0_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.Gün/ornek_kayit_programi_v_0_0_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.Gün/Genel_Tekrar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.Gün/dosya.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.Gün/dosya.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.Gün/dosya2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_3/dosya2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.Gün/kumeler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Gün/Matematik _Kutuphanesi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Gün/ornek.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Gün/ornek_alan_hesaplama.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Gün/ornek_sayiyi_yaziya_cevir.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_7/ornek_siniflar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Gün/ornek_sayiyi_yaziya_cevir_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_7/Class_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Gün/ornek_sayiyi_yaziya_cevir_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_6/siniflar_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Gün/ornek_uzaklik.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_6/ornek_Ogrenci_V_0_0_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Gün/ornek_zar_atma.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_6/ornek_Ogrenci_V_0_0_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Gün/zar_atma_fonksiyonel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gun_6/m_f_l_r.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gun_8/pseude_code.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,13 +13,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ornek_siniflar.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ornek_siniflar.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gun_7/ornek_siniflar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="-108">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pseude_code.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gun_8/pseude_code.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="Class.py" pinned="false" current-in-tab="false">
@@ -122,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/donusumler.py" />
         <option value="$PROJECT_DIR$/listeler.py" />
         <option value="$PROJECT_DIR$/demetler.py" />
         <option value="$PROJECT_DIR$/sozlukler.py" />
@@ -173,6 +115,7 @@
         <option value="$PROJECT_DIR$/Gun_7/Class.py" />
         <option value="$PROJECT_DIR$/Gun_7/Class_2.py" />
         <option value="$PROJECT_DIR$/Gun_7/ornek_siniflar.py" />
+        <option value="$PROJECT_DIR$/Gun_8/pseude_code.py" />
       </list>
     </option>
   </component>
@@ -190,7 +133,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,12 +143,13 @@
             <path>
               <item name="pythonkampi" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonkampi" type="462c0819:PsiDirectoryNode" />
-              <item name="Gun_7" type="462c0819:PsiDirectoryNode" />
+              <item name="Gun_8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -375,14 +318,14 @@
     <frame x="0" y="30" width="1440" height="870" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7722222" visible="true" weight="0.22653493" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7722222" visible="true" weight="0.22653493" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28086838" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28086838" />
       <window_info id="Structure" order="1" sideWeight="0.22777778" side_tool="true" weight="0.22653493" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32384825" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.41248304" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39891452" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -398,13 +341,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gun_2/for_ornek.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -592,9 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -609,9 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -682,9 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding>
-            <marker date="1532704971484" expanded="true" signature="820:824" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -711,10 +638,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gun_7/ornek_siniflar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="-108">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gun_8/pseude_code.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
