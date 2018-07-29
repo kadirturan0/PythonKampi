@@ -22,8 +22,8 @@ def ogr_kayit():
     print("Kayıt işlemi başarılı")
 
 def main():
-    dosya.txt = open('veritabani.txt', 'x')
-    dosya.txt = open('veritabani.txt', 'r')
+    dosya = open('veritabani.txt', 'x')
+    dosya = open('veritabani.txt', 'r')
     while True:
         secim= input("""
         1- Öğrenci kayit işlemi
