@@ -12,6 +12,7 @@ class Ogrenci:
 
 class Sinif:
     def ogrenci_ekle(self):
+
         ogrenciler = []
         self.numara  = input("Öğrenci No: ")
         self.isim    = input("Öğrenci Adı: ")
@@ -19,7 +20,7 @@ class Sinif:
         self.vize    = input("Vize Notu: ")
         self.soyisim   = input("Final Notu: ")
 
-        ogrenciler.append(Ogrenci(nu))
+        ogrenciler.append(Ogrenci())
 
     def ogrenci_sil(self):
         pass
@@ -38,22 +39,20 @@ def main():
 
 
 
-while True:
-    secim= int (input(print("""
-    [1] Öğrenci Ekle
-    [2] Öğrenci Sil
-    [3] Öğrencileri Görüntüle
-    [4] Genel Ortalama
-    [5] Tüm Öğrencileri Görüntüle
-    [6] Çıkış
-    """)))
+    while True:
+        secim= int (input(print("""
+        [1] Öğrenci Ekle
+        [2] Öğrenci Sil
+        [3] Öğrencileri Görüntüle
+        [4] Genel Ortalama
+        [5] Tüm Öğrencileri Görüntüle
+        [6] Çıkış
+        """)))
 
-    if secim == 1:
-        Ogrenci.ogrenci_ekle()
-    elif secim == 2:
-        Ogrenci.ogrenci_sil()
-
-
+        if secim == 1:
+            Ogrenci.ogrenci_ekle()
+        elif secim == 2:
+            Ogrenci.ogrenci_sil()
 
 
 
